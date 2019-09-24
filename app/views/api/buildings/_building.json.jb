@@ -1,0 +1,8 @@
+{
+  id: building.id,
+  name: building.name,
+  address: building.address,
+  height: building.height,
+  construction_date: building.construction_date,
+  architect: building.architect
+}

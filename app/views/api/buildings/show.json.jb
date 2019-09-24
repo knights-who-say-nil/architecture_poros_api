@@ -1,0 +1,1 @@
+render partial: "building.json.jb", locals: {building: @building}
